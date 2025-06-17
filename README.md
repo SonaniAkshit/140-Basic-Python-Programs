@@ -128,5 +128,3 @@ Example:
 ```bash
 pip install numpy
 ```
-
----
